@@ -1,0 +1,10 @@
+# Site settings
+title: Internet of Buildings Consortium
+tag_text: Industry-Academic Data Science Consortium for Building IoT 
+description: Industry-Academic Data Science Consortium for Building IoT 
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: expanded
